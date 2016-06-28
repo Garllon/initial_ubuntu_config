@@ -15,3 +15,12 @@ user_email.
 ```
 ./setup_git.sh 'Garllon' test@example.org
 ```
+
+## Setup your docker and docker-compose
+
+Use the `setup_docker.sh` to install `docker` and `docker-compose`. It's adding
+your local user to the docker access group.
+
+```
+./setup_docker.sh
+```
