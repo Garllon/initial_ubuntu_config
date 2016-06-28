@@ -33,6 +33,10 @@ your local user to the docker access group.
 
 * openssh-client
 * openssh-server
-* libxss1 
+* libxss1
 * libappindicator1
 * libindicator7
+
+```
+./setup_more_tools.sh
+```
