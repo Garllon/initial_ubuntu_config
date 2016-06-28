@@ -27,12 +27,12 @@ your local user to the docker access group.
 
 ## Setup more tools
 
-..* Dropbox
-..* keepassx
-..* Google-Chrome
+* Dropbox
+* keepassx
+* Google-Chrome
 
-..* openssh-client
-..* openssh-server
-..* libxss1 
-..* libappindicator1
-..* libindicator7
+* openssh-client
+* openssh-server
+* libxss1 
+* libappindicator1
+* libindicator7
